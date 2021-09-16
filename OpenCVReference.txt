@@ -1,0 +1,20 @@
+CV_8U(uchar)  
+CV_8UC1 (uchar)  CV_8UC2 (Vec2b)  CV_8UC3 (Vec3b)  CV_8UC4(Vec4b) 
+
+CV_8S(char)   
+CV_8SC1 (uchar)  CV_8SC2 (Vec2b)   CV_8SC3 (Vec3b)  CV_8SC4 (Vec4b)   
+
+CV_16U  (ushort)
+CV_16UC1 (ushort)  CV_16UC2 (Vec2w)   CV_16UC3 (Vec3w)   CV_16UC4 (Vec4w)   
+
+CV_16S  (short)
+CV_16SC1(short)   CV_16SC2(Vec2s)   CV_16SC3(Vec3s)   CV_16SC4(Vec4s)   
+
+CV_32S (int)
+CV_32SC1(int)   CV_32SC2(Vec2i)    CV_32SC3(Vec3i)  CV_32SC4(Vec4i)   
+
+CV_32F (float)
+CV_32FC1(float)   CV_32FC2(Vec2f)  CV_32FC3(Vec3f)   CV_32FC4(Vec4f)  
+
+CV_64F(double)  
+CV_64FC1(double)   CV_64FC2(Vec2d)  CV_64FC3(Vec3d)  CV_64FC4(Vec4d) 
